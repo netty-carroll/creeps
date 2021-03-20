@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/gameover.wav-98c95c744b35280048c2bd093cf8a356.sample"
+path="res://.import/gameover.wav-112979211b3f1ea0f00cd7f554727c24.sample"
 
 [deps]
 
-source_file="res://art/gameover.wav"
-dest_files=[ "res://.import/gameover.wav-98c95c744b35280048c2bd093cf8a356.sample" ]
+source_file="res://creeps/dodge_assets/art/gameover.wav"
+dest_files=[ "res://.import/gameover.wav-112979211b3f1ea0f00cd7f554727c24.sample" ]
 
 [params]
 

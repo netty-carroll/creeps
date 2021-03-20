@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/enemyFlyingAlt_2.png-31dc7310eda6e1b721224f3cd932c076.stex"
+path="res://.import/playerGrey_up1.png-2427332450f10e6cf8153c8f1f978992.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/enemyFlyingAlt_2.png"
-dest_files=[ "res://.import/enemyFlyingAlt_2.png-31dc7310eda6e1b721224f3cd932c076.stex" ]
+source_file="res://creeps/dodge_assets/art/playerGrey_up1.png"
+dest_files=[ "res://.import/playerGrey_up1.png-2427332450f10e6cf8153c8f1f978992.stex" ]
 
 [params]
 
